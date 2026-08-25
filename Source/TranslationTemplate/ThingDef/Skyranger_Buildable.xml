@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Skyranger -->
+  <XCOM_Skyranger_Blueprint.label>Skyranger</XCOM_Skyranger_Blueprint.label>
+  <!-- EN: The Skyranger is a Vertical Take-Off and Landing (VTOL) troop transport aircraft which utilizes swiveling engines on either side of the fuselage to provide all the lifting power, in addition to the large main forward thruster.\n\nIt is significantly faster and more fuel-efficient than the industrial-era counterparts and its plasteel hull makes it resistant to small-arms fire, though the lack of armaments prevents it from acting in an aerial combat role. -->
+  <XCOM_Skyranger_Blueprint.description>The Skyranger is a Vertical Take-Off and Landing (VTOL) troop transport aircraft which utilizes swiveling engines on either side of the fuselage to provide all the lifting power, in addition to the large main forward thruster.
+
+It is significantly faster and more fuel-efficient than the industrial-era counterparts and its plasteel hull makes it resistant to small-arms fire, though the lack of armaments prevents it from acting in an aerial combat role.</XCOM_Skyranger_Blueprint.description>
+</LanguageData>
